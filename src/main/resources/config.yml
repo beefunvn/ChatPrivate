@@ -1,0 +1,7 @@
+whisper:
+  from: "&dđến <player_name>: <message>"
+  to: "&d<player_name> thì thầm: <message>"
+messages:
+  no_online: "&6Người chơi này không trực tuyến."
+  no_reply: "&6Không có ai để trả lời."
+  pmself: "&6Vui lòng không nhắn tin cho chính mình."
